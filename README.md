@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">Mobile Developer | Front-End Developer</h4>
+<h3 align="center">Mobile Developer | Front-End Developer</h3>
 
 ###
 
@@ -10,7 +10,16 @@
 
 ###
 
-<p align="left">I’m an Informatics Engineering student at Brawijaya University with a strong interest in Mobile and Front-End Development. I enjoy transforming ideas and designs into functional, responsive, and user-centered applications, while continuously learning to build scalable and maintainable software solutions.<br><br>💻 Focused on Front-End & Mobile Development<br>🎓 Informatics Engineering student at Brawijaya University<br>📱 Android Developer (Kotlin)<br>🌐 Front-End Web Developer (React & Next.js)<br>🚀 Actively exploring full-stack and scalable software solutions<br>📸 Photography & videography enthusiast, spotify enjoyer<br>📫 Reach me via Email or LinkedIn</p>
+<p align="left">I’m an Informatics Engineering student at Brawijaya University with a strong interest in Mobile and Front-End Development. I enjoy transforming ideas and designs into functional, responsive, and user-centered applications, while continuously learning to build scalable and maintainable software solutions.</p>
+
+<ul>
+  <li>💻 Focused on Front-End & Mobile Development</li>
+  <li>📱 Android Developer (Kotlin)</li>
+  <li>🌐 Front-End Web Developer (React & Next.js)</li>
+  <li>🚀 Exploring full-stack and scalable software solutions</li>
+  <li>📸 Photography & videography enthusiast, Spotify enjoyer</li>
+  <li>📫 Reach me via Email or LinkedIn</li>
+</ul>
 
 ###
 
@@ -89,13 +98,5 @@
 ###
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rhesatsaqif23&theme=tokyo-night&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rhesatsaqif23/rhesatsaqif23/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rhesatsaqif23/rhesatsaqif23/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rhesatsaqif23/rhesatsaqif23/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
