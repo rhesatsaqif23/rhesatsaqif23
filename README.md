@@ -13,9 +13,9 @@
 <p align="left">I’m an Informatics Engineering student at Brawijaya University with a strong interest in Web and Mobile Development. I enjoy transforming ideas and designs into functional, responsive, and user-centered applications, while continuously learning to build scalable and maintainable software solutions.</p>
 
 <ul>
-  <li>💻 Focused on Front-End & Mobile Development</li>
+  <li>💻 Experienced on Front-End & Mobile Development</li>
   <li>📱 Android Developer (Kotlin & Flutter)</li>
-  <li>🌐 Front-End Web Developer (React & Next.js)</li>
+  <li>🌐 Web Developer (React & Next.js)</li>
   <li>🚀 Exploring full-stack and scalable software solutions</li>
   <li>📫 Reach me via Email or LinkedIn</li>
 </ul>
@@ -89,8 +89,6 @@
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="neon postgres logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
   <img width="12" />
