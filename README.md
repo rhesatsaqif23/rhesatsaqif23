@@ -14,8 +14,8 @@
 
 <ul>
   <li>💻 Experienced on Front-End & Mobile Development</li>
-  <li>📱 Android Developer (Kotlin & Flutter)</li>
   <li>🌐 Web Developer (React & Next.js)</li>
+  <li>📱 Mobile Developer (Kotlin & Flutter)</li>
   <li>🚀 Exploring full-stack and scalable software solutions</li>
   <li>📫 Reach me via Email or LinkedIn</li>
 </ul>
