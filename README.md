@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Front-End Developer | Mobile Developer | Full-stack Developer</h3>
+<h3 align="center">Full-stack Developer | Front-End Developer | Mobile Developer | </h3>
 
 ###
 
@@ -14,7 +14,7 @@
 
 <ul>
   <li>💻 Experienced on Front-End & Mobile Development</li>
-  <li>🌐 Web Developer (React & Next.js)</li>
+  <li>🌐 Web Developer (Next.js, Express.js, FastAPI, Laravel)</li>
   <li>📱 Mobile Developer (Kotlin & Flutter)</li>
   <li>🚀 Exploring full-stack and scalable software solutions</li>
   <li>📫 Reach me via Email or LinkedIn</li>
