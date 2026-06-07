@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Full-stack Developer | Front-End Developer | Mobile Developer | </h3>
+<h3 align="center">Full-stack Developer | Front-end Developer | Mobile Developer | </h3>
 
 ###
 
@@ -13,7 +13,7 @@
 <p align="left">I’m an Informatics Engineering student at Brawijaya University with a strong interest in Web and Mobile Development. I enjoy transforming ideas and designs into functional, responsive, and user-centered applications, while continuously learning to build scalable and maintainable software solutions.</p>
 
 <ul>
-  <li>💻 Experienced on Front-End & Mobile Development</li>
+  <li>💻 Experienced on Front-end & Mobile Development</li>
   <li>🌐 Web Developer (Next.js, Express.js, FastAPI, Laravel)</li>
   <li>📱 Mobile Developer (Kotlin & Flutter)</li>
   <li>🚀 Exploring full-stack and scalable software solutions</li>
