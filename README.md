@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Full-stack Developer | Front-end Developer | Mobile Developer | </h3>
+<h3 align="center">Full-stack Developer | Front-end Developer | Mobile Developer </h3>
 
 ###
 
